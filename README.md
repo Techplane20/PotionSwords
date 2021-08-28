@@ -3,6 +3,7 @@ A simple mod that adds enchantments that cause the target to gain a negative sta
 
 # So what exactly does this mod do?
 Right now Potion Swords adds 8 enchantments to Minecraft:
+
 Frost, which gives the target slowness
 
 Helium, which gives the target levitation
