@@ -20,7 +20,8 @@ Blindness Touch, which gives the target blindness
 
 Last but but not least: Weakness Touch which gives the target weakness
 
-Each of these enchantments have three levels, and the strength the status effect scales with the level of the enchantment.
+Each of these enchantments have one level, which is level three. I did that to confuse people. All of the enchantments are incompatible with Sharpness, Fire Aspect,
+Smite, Knockback and Bane of Arthropods. This is to prevent people from making super op swords.
 **These enchantments cannot be obtained using the enchantment table. That is on purpose and will not be added later.**
 
 # How can I dowload this?
@@ -29,8 +30,8 @@ You can download the mod by going to [releases](https://github.com/Techplane20/P
 # How can I help?
 The only thing I really need right now is a logo. If you make one, get in touch with me!
 
-# Why are all your commit descriptions emojis?
-For the sake of clarity and brevity I use gitmoji in my commit descreptions. You can find a key to what they mean [here.](https://gitmoji.dev)
+# Why are some your commit descriptions emojis?
+For the sake of clarity and brevity I sometimes use gitmoji in my commit descreptions. You can find a key to what they mean [here.](https://gitmoji.dev)
 
 # Future Goals/Plans for this mod
 I am planning to make a 1.17.x version of the mod, as well as a Curseforge and/or Modrinth page as soon as the mod is out of early access.
