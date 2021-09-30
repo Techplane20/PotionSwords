@@ -19,19 +19,13 @@ public class BlindnessTouchEnchantment extends Enchantment{
     
     @Override
     public int getMaxLevel() {
-        return 3;
-    }
-
-    @Override
-    public int getMinLevel()
-    {
-        return 3;
+        return 1;
     }
 
     @Override
     public void onTargetDamaged(LivingEntity user, Entity target, int level) {
     if(target instanceof LivingEntity) {
-        ((LivingEntity) target).addStatusEffect(new StatusEffectInstance(StatusEffects.BLINDNESS, 20 * 2 * level, level - 1));
+        ((LivingEntity) target).addStatusEffect(new StatusEffectInstance(StatusEffects.BLINDNESS, 20 * 6 * level, level - 1));
     }
  
     super.onTargetDamaged(user, target, level);
