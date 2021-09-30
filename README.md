@@ -20,7 +20,7 @@ Blindness Touch, which gives the target blindness
 
 Last but but not least: Weakness Touch which gives the target weakness
 
-Each of these enchantments have one level, which is level three. I did that to confuse people. All of the enchantments are incompatible with Sharpness, Fire Aspect,
+Each of these enchantments have one level and are incompatible with Sharpness, Fire Aspect,
 Smite, Knockback and Bane of Arthropods. This is to prevent people from making super op swords.
 **These enchantments cannot be obtained using the enchantment table. That is on purpose and will not be added later.**
 
