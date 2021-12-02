@@ -10,6 +10,11 @@ import net.minecraft.entity.effect.StatusEffectInstance;
 import net.minecraft.entity.effect.StatusEffects;
 
 public class FrostEnchantment extends Enchantment {
+    
+    @Override
+    public int getMinPower(int level) {
+    return 1;
+    }
 
     @Override
     public boolean canAccept(Enchantment other) {
