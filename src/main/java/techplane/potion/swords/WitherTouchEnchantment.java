@@ -12,6 +12,11 @@ package techplane.potion.swords;
 public class WitherTouchEnchantment extends Enchantment {
 
     @Override
+    public int getMinPower(int level) {
+    return 1;
+    }
+
+    @Override
     public boolean canAccept(Enchantment other) {
         return super.canAccept(other) && other != Enchantments.SMITE && other != Enchantments.FIRE_ASPECT && other != Enchantments.SHARPNESS &&
         other !=Enchantments.KNOCKBACK && other != Enchantments.BANE_OF_ARTHROPODS;
