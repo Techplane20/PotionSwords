@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Potion Swords",
-  "description": "A simple mod that adds enchanments that cause the target to gain a negative status effect",
+  "description": "A simple mod that adds enchanments that cause the target to gain a negative status effect.",
   "authors": [
     "Techplane20"
   ],
