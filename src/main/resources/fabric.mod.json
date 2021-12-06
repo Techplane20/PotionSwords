@@ -4,7 +4,7 @@
   "version": "${version}",
 
   "name": "Potion Swords",
-  "description": "A simple mod that adds enchanments that cause the target to gain a negative status effect.",
+  "description": "A simple mod that adds enchanments for weapons that inflict Minecraft's negative status effects.",
   "authors": [
     "Techplane20"
   ],
@@ -22,14 +22,12 @@
       "techplane.potion.swords.PotionSwords"
     ]
   },
-  "mixins": [
-    ""
-  ],
-
+ 
   "depends": {
-    "fabricloader": ">=0.7.4",
+    "fabricloader": ">=0.11.3",
     "fabric": "*",
-    "minecraft": "1.16.x"
+    "minecraft": "1.17.x",
+    "java": ">=16"
   },
   "suggests": {
     "another-mod": "*"
