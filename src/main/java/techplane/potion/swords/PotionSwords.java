@@ -7,10 +7,10 @@ import net.minecraft.util.registry.Registry;
 
 public class PotionSwords implements ModInitializer {
 
-	private static Enchantment FROST = Registry.register(
+	private static Enchantment SLOWNESSTOUCH = Registry.register(
             Registry.ENCHANTMENT,
-            new Identifier("potionswords", "frost"),
-            new FrostEnchantment()
+            new Identifier("potionswords", "slownesstouch"),
+            new SlownessTouchEnchantment()
 		);
 
 		private static Enchantment POISONTIP = Registry.register(
