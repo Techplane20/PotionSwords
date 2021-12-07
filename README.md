@@ -4,8 +4,6 @@ A simple mod that adds enchantments for weapons that inflict Minecraft's negativ
 # So what exactly does this mod do?
 Right now Potion Swords adds 8 enchantments to Minecraft:
 
-Frost, which gives the target Slowness
-
 Helium, which gives the target Levitation
 
 Sickness, which gives the target Hunger and Nausea
@@ -17,6 +15,8 @@ Wither Touch, which gives the target Wither; similar to a wither skeleton
 Poison Touch, which gives the target Poison
 
 Blindness Touch, which gives the target Blindness
+
+Slowness Touch, which gives the target Slowness
 
 Weakness Touch which gives the target Weakness
 
