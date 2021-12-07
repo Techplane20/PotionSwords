@@ -1,5 +1,5 @@
 # Potion Swords
-A simple mod that adds enchantments that cause the target to gain a negative status effect.
+A simple mod that adds enchantments for weapons that inflict Minecraft's negative status effects.
 
 # So what exactly does this mod do?
 Right now Potion Swords adds 8 enchantments to Minecraft:
@@ -28,13 +28,12 @@ These enchantments can be obtained at any level in the Enchanting Table.
 You can download the mod by going to [releases](https://github.com/Techplane20/PotionSwords/releases) and downloading the latest release.
 
 # How can I help?
-The only thing I really need right now is a logo. If you make one, get in touch with me!
+There isn't any one thing I need, but if you want to contribue feel free to fork the project and submit a pull request.
 
 # Why are some your commit descriptions emojis?
 For the sake of clarity and brevity I used to use gitmoji in my commit descreptions (I don't anymore). You can find a key to what they mean [here.](https://gitmoji.dev)
 
 # Future Goals/Plans for this mod
-I am planning to make a 1.17.x and a 1.18.x version of the mod, as well as a Curseforge and/or Modrinth page as soon as the mod is out of early access.
-Some enchantments also may be made incompatable with one another.
+I am planning to make a 1.18.x version of the mod, and Curseforge and Modrinth pages are coming soon.
 
-Minecraft Versions supported: 1.16.5
+Minecraft Versions supported: 1.16.5, 1.17.1
