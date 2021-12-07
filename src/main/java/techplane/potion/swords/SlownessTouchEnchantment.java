@@ -9,7 +9,7 @@ import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.effect.StatusEffectInstance;
 import net.minecraft.entity.effect.StatusEffects;
 
-public class FrostEnchantment extends Enchantment {
+public class SlownessTouchEnchantment extends Enchantment {
     
     @Override
     public int getMinPower(int level) {
@@ -36,7 +36,7 @@ public class FrostEnchantment extends Enchantment {
     super.onTargetDamaged(user, target, level);
 }
 
-    public FrostEnchantment() {
+    public SlownessTouchEnchantment() {
         super(Enchantment.Rarity.UNCOMMON, EnchantmentTarget.WEAPON, new EquipmentSlot[] {EquipmentSlot.MAINHAND});
     }
 }
