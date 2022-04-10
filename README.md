@@ -25,15 +25,17 @@ Smite, Knockback and Bane of Arthropods. This is to prevent people from making s
 These enchantments can be obtained at any level in the Enchanting Table.
 
 # How can I dowload this?
-You can download the mod by going to [releases](https://github.com/Techplane20/PotionSwords/releases) and downloading the latest release.
+Option 1: You can Download the mod from [Curseforge.](https://www.curseforge.com/minecraft/mc-mods/potion-swords)
+Option 2: Go to [releases](https://github.com/Techplane20/PotionSwords/releases) and downloading the latest release.
 
 # How can I help?
 There isn't any one thing I need, but if you want to contribue feel free to fork the project and submit a pull request.
 
 # Why are some your commit descriptions emojis?
-For the sake of clarity and brevity I used to use gitmoji in my commit descreptions (I don't anymore). You can find a key to what they mean [here.](https://gitmoji.dev)
+For the sake of clarity and brevity I used to use gitmoji in my commit descreptions. You can find a key to what they mean [here.](https://gitmoji.dev)
 
 # Future Goals/Plans for this mod
-I am planning to make a 1.18.x version of the mod, and Curseforge and Modrinth pages are coming soon.
+I will update the mod to the next releases of 1.18 when they come out,and a Modrinth page is coming soon.
 
-Minecraft Versions supported: 1.16.5, 1.17.1
+Minecraft Versions supported: 1.18.2
+Minecraft Versions available but no longer recieving updates: 1.16.5, 1.17.1
