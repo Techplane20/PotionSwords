@@ -26,7 +26,7 @@ These enchantments can be obtained at any level in the Enchanting Table.
 
 # How can I dowload this?
 Option 1: You can Download the mod from [Curseforge.](https://www.curseforge.com/minecraft/mc-mods/potion-swords)
-Option 2: Go to [releases](https://github.com/Techplane20/PotionSwords/releases) and downloading the latest release.
+Option 2: Go to [releases](https://github.com/Techplane20/PotionSwords/releases) and download the latest release.
 
 # How can I help?
 There isn't any one thing I need, but if you want to contribue feel free to fork the project and submit a pull request.
